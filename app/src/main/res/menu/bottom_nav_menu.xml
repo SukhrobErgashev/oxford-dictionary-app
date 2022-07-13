@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/searchScreen"
+        android:icon="@drawable/ic_search"
+        android:title="Search Word" />
+
+    <item
+        android:id="@+id/vocabularyScreen"
+        android:icon="@drawable/ic_vocabulary"
+        android:title="My Vocabulary" />
+
+</menu>
